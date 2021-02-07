@@ -4,7 +4,6 @@ import 'package:hexacore/Anasayfa/anasayfa.dart';
 import 'package:hexacore/Egitim/egitim.dart';
 import 'package:hexacore/Profil/profil.dart';
 import 'package:hexacore/performans.dart';
-import 'package:hexacore/tabbar/tab_item.dart';
 import 'package:jumping_bottom_nav_bar/jumping_bottom_nav_bar.dart';
 
 
